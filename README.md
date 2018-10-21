@@ -19,3 +19,11 @@ z "#" robimy nagłówki / wyboldowany i większy tekst
 
 ![GitHub Logo](https://octodex.github.com/images/spectrocat.png)
 #tak dodajemy grafikę z url: ![GitHub Logo](https://.....<adres url grafiki>)
+
+
+# pobieranie reposytorium na komputer z GitHub.com
+- cat <nazwa_pliku>
+- git pull
+- cat <nazwa_pliku>
+#wykorzystać do otwarcia:
+- gitk lub gitg
